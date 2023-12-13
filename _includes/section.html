@@ -1,0 +1,7 @@
+
+<section id="{{ section.title | slugify }}" class="section-{{ section.color }}">
+    <div class='container textalign-{{section.textalign}}'>
+      {% if post.title %}<h2 class="section-title">{{ section.title }}</h2>{% endif %}
+      {{ section.content }}
+    </div>
+</section>

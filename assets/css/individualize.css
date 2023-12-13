@@ -1,0 +1,26 @@
+td {
+    vertical-align: top;
+}    
+
+div.textalign-justify{
+    text-align: justify;
+}
+
+div.textalign-normal{
+    text-align: left;
+}
+
+a#logolink{
+    color: white;
+}
+
+a:hover#logolink {
+    color: grey;
+    text-decoration: none;
+    border-width: 0;
+}
+
+/*section {
+    background: url('/images/hr_grey.png') no-repeat top;
+    background-size: 100% 9px;
+}   */
