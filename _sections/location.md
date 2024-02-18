@@ -1,7 +1,7 @@
 ---
 title: Location
 # Set the display order for this section
-order: 4
+order: 6
 color: grey
 # Specify the layout for this section
 include: section.html
@@ -14,5 +14,4 @@ We are located at
 
 2) [Charité – Universitätsmedizin Berlin, Department of Psychiatry and Neurosciences, Visual Perception Lab](https://psychiatrie-psychotherapie.charite.de/en/research/computational_neuroimaging/visual_perception_lab/){:target='\_blank'}, Campus Mitte, 10117 Berlin
 
-
-[Link to post]({% post_url 2023-12-13-test %})
+<div style="margin-bottom: 800px"></div>

@@ -12,6 +12,13 @@ div.textalign-normal{
 
 a#logolink{
     color: white;
+    font-size: 1em;
+}
+
+@media screen and (max-width: 736px) {
+    a#logolink{
+        font-size: 0.95em;
+    }
 }
 
 a:hover#logolink {
@@ -24,3 +31,9 @@ a:hover#logolink {
     background: url('/images/hr_grey.png') no-repeat top;
     background-size: 100% 9px;
 }   */
+
+
+div.return_to_homepage {
+    height: 40px;
+    display: flex;
+}

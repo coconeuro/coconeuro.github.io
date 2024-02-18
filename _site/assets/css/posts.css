@@ -1,0 +1,109 @@
+#main {
+	padding: 10px 10px 10px 10px;
+}
+
+.return_to_homepage {
+/* 	margin: 10px 0 0 10px; */
+}
+
+.return_to_homepage div {
+	width: 100%
+}
+
+.return_to_homepage a {
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	padding: 5px 5px 5px 5px;
+	-webkit-transition: unset;
+	font-weight: bold;
+}
+
+#header .return_to_homepage a:hover {
+	background-color: white;
+	color: black !important;
+	border-bottom: unset;
+}
+
+figure {
+    margin: 10px;
+    margin-block: 0 !important;
+    margin-inline: 10px !important;
+
+}
+
+figcaption {
+	background-color: #eee;
+	font-size: 90%;
+}
+
+figure img {
+    width: 100%;
+    height: auto;
+}
+
+figure.img-float-right {
+    float: right;
+    margin-left: 18px !important;
+    margin-right: 0 !important;
+}
+
+figure..img-float-left {
+    float: left;
+    margin-left: 0 !important;
+    margin-right: 18px !important;
+}
+
+figure.img-block {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+figure.img-block img {
+    margin-top: 10px;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+	max-width: 100%;
+}
+
+.pclear {
+    clear: both;
+}
+
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+
+    figure {
+        display: contents;
+        width: unset !important;
+    }
+
+    figure img {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        width: auto !important;
+        height: auto !important;
+        max-width: 100% !important;
+        max-height: 200px !important;
+    }
+
+    figcaption {
+        margin-top: 4px;
+    }
+
+    .img-block {
+        width: 100%;
+    }
+
+    figure.img-block img {
+        width: 100% !important;
+        max-height: unset !important;
+    }
+
+
+}

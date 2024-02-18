@@ -1,19 +1,24 @@
 ---
-title: Start
+# title: About
 # Set the display order for this section
-order: 1
-color: white
+order: 4
+color: grey
 textalign: justify
 # Specify the layout for this section
 include: section.html
 ---
-## Computation and Cognition @ HMU Potsdam
+## Teaching
 
-We investigate the computational and cognitive mechanisms of human behavior. A major focus of the group is **metacognition** &mdash; the ability to introspect about own thoughts, actions and perceptions.
+#### Statistik 1
 
-The group is part of the <i>Institute of Mind, Brain and Behavior</i> of the [Health and Medical University](https://www.health-and-medical-university.de/), a private university in Potsdam (just outside of Berlin).
+Lecture slides (in German) in the links below.
 
-<!-- <br> -->
+| Semester | Link |
+| --- | --- |
+| WS 23/24 | [hmu-stats.github.io?23ws](https://hmu-stats.github.io?23ws){:target="_blank"} |
+| SS 24 | [hmu-stats.github.io?24ss](https://hmu-stats.github.io?24ss){:target="_blank"} |
+
+
 
 <!-- **Humans are able to report their subjective certainty about decisions, actions or perceptions. We believe that such subjective certainty – or confidence – can be used as a learning signal to reinforce neural circuitry involved in these processes. We refer to this form of learning as confidence-based learning.**
 

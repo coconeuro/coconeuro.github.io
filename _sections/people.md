@@ -6,9 +6,9 @@ color: grey
 # Specify the layout for this section
 include: section.html
 ---
-## People
+## Team
 
-| <br>**[Matthias Guggenmos](https://www.health-and-medical-university.de/team-fakultaet-gesundheit-hmu/matthias-guggenmos/){:target='\_blank'}**<br>_Professor for Computational Cognitive Neuroscience_<br><br>[E-mail](mailto:matthias.guggenmos@health-and-medical-university.de) | ![Matthias Guggenmos](images/matthias.png){:width="140px"} |
+| <br>**[Matthias Guggenmos](https://www.health-and-medical-university.de/team-fakultaet-gesundheit-hmu/matthias-guggenmos/){:target='\_blank'}**<br>_Professor for Computational Cognitive Neuroscience_<br><br>[E-mail](mailto:matthias.guggenmos@hmu-potsdam.de) | ![Matthias Guggenmos](images/matthias.png){:width="140px"} |
 {% comment %}
 | <br>**Isa Steinecker**<br>_Doctoral student_<br><br>| ![Isa Steinecker](images/profile_isa.png){:width="140px"}|
 {% endcomment %}
@@ -28,4 +28,4 @@ include: section.html
 | <br>**[Prof. Philipp Sterzer](https://psychiatrie-psychotherapie.charite.de/en/metas/person_detail/person/address_detail/sterzer/)**<br>_Department Head_| ![Philipp Sterzer](images/philipp.png){:width="140px"}|
 {% endcomment %}
 
-***We are open to students interested in internships, lab rotations or master theses. To apply, please write us an [E-mail](mailto:matthias.guggenmos@health-and-medical-university.de) with a short motivation and CV.***
+***We are open to students interested in internships, lab rotations or master theses. To apply, please write us an [E-mail](mailto:matthias.guggenmos@hum-potsdam.de) with a short motivation and CV.***
