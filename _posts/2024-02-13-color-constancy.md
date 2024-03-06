@@ -53,7 +53,7 @@ No. As you likely realized, in a couple of stimuli the illumination of the face 
  <figcaption>The Dress.</figcaption>
 </figure>
 
-[Yes](https://doi.org/10.1016/j.cub.2015.05.020). When looking at The Dress, we make assumptions about its illumination. Indeed, it is an image that gives a variety of cues.
+[Yes](https://doi.org/10.1016/j.cub.2015.05.020). When looking at The Dress, the brain estimates the lighting conditions which in turn influences the perceived color of The Dress. This is the core mechanism of color constancy. Indeed, The Dress contains quite a few (though ambiguous) cues about its lighting conditions.
 
 The main point of The Dress is that humans can arrive at different conclusions about the "true" color of an object ("true" as a shorthand for "under more neutral lighting conditions"). This may be because they estimate the illumination differently, or because they discount a given illuminant differently. In either case, it goes to show that the mechanism of color constancy can be different between individuals.
 
