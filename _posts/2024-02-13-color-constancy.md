@@ -6,7 +6,7 @@ permalink: color-faq
 
 ### FAQ color-test.org
 
-This is a compendium of questions about the color constancy test at [color-test.org](http://color-test.org/){:target="_blank"}.
+This is a compendium of questions about the color constancy test at [color-test.org](https://color-test.org/){:target="_blank"}.
 
 #### What is color constancy?
 
