@@ -1,7 +1,7 @@
 ---
 title: Location
 # Set the display order for this section
-order: 6
+order: 7
 color: grey
 # Specify the layout for this section
 include: section.html

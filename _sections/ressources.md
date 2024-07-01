@@ -1,7 +1,7 @@
 ---
 title: Ressources
 # Set the display order for this section
-order: 5
+order: 6
 color: grey
 # Specify the layout for this section
 include: section.html

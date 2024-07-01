@@ -1,0 +1,115 @@
+
+#theses-menu {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    padding: 4px;
+    /* border: 2px solid green; */
+    height: 160px;
+    width: fit-content;
+}
+
+.grid-item {
+    /* padding: 20px; */
+    /* text-align: center; */
+    border-radius: 5px;
+    height: 140px;
+}
+
+.scrollable-container {
+    height: 113px;
+    overflow-y: auto;
+    overflow-x: clip;
+    border: 1px solid #ccc;
+    /* padding: 5px 5px 0 5px; */
+    background-color: #fff;
+    border-radius: 5px;
+    font-size: 0.9em;
+    text-align: center;
+    padding: 0;    
+}
+
+
+div.scrollable-container label {
+    font-size: 1em;
+    text-wrap: nowrap;
+    user-select: none;
+}
+
+div.menu-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0.25em;
+    color: #333;
+    user-select: none;
+}
+
+div.scrollable-container input[type="radio"] {
+    margin-right: 0.5em;
+    position: relative;
+    top: 1px;
+}
+
+div.scrollable-container div{
+    cursor: pointer;
+    background-color: #fff;
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    border-color: #eee;
+    padding: 3px 0 3px 0;
+    user-select: none;
+    font-size: 0.9em;
+    outline: none;
+}
+
+div.scrollable-container div:hover{
+    background-color: #eff6ff !important;
+}
+
+div #theses-abstracts {
+    margin-left: 15px;
+    margin-top: 25px;
+}
+
+div.abstract {
+    width: 80%;
+    max-width: 800px;
+    margin-bottom: 25px;    
+}
+
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px) {
+    div.abstract {
+        width: 96%;
+        max-width: 800px;
+    }    
+}
+
+div.abstract-type {
+    font-style: italic;
+    color: #777;
+}
+
+div.abstract-type-extended {
+    color: #777;
+}
+
+div.abstract-tags {
+    /* font-style: italic; */
+    color: #777;
+}
+
+
+div.abstract-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+div.abstract-author {
+    color: #777;
+}
+
+div.abstract-abstract {
+    font-size: 0.9em;
+    line-height: 1.5;
+}

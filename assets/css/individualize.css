@@ -37,3 +37,7 @@ div.return_to_homepage {
     height: 40px;
     display: flex;
 }
+
+.center {
+    text-align: center;
+}
