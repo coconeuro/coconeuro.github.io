@@ -9,12 +9,8 @@ include: section.html
 ---
 ## Bachelor and Master theses at HMU
 
-An overview of **past and ongoing Bachelor and Master thesis projects** at the Health and Medical University, as well as a list of **potential potential future topics** can be found here: 
-
-<!-- <div class="custom-table-class"> -->
+An overview of past and ongoing Bachelor and Master thesis projects in the lab, as well as a list of potential potential future topics can be found here: 
 
 ||:---: ||
-||[Thesis@HMU]({% post_url 2024-06-28-theses %}){:target="_blank"}||
+||[Thesis projects in the lab]({% post_url 2024-06-28-theses %}){:target="_blank"}||
 {:.center}
-
-<!-- </div> -->
