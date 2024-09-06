@@ -11,3 +11,4 @@ include: section.html
 | --- | --- |
 | **Color constancy test** | Test: &nbsp; [color-test.org](https://guggenmos.org/matthias/coloris/){:target="_blank"}<br><br>FAQ: &nbsp; [Link]({% post_url 2024-02-13-color-constancy %}) |
 | **ReMeta Toolbox** | [github.com/m-guggenmos/remeta](https://github.com/m-guggenmos/remeta) |
+| **Tutorial: MEG / EEG Multivariate patter analysis** | [github.com/m-guggenmos/megmvpa](https://github.com/m-guggenmos/megmvpa) |
