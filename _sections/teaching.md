@@ -9,14 +9,11 @@ include: section.html
 ---
 ## Teaching
 
-#### Statistik 1
-
-Lecture slides (in German) in the links below.
+Lecture slides in the links below.
 
 | Semester | Link |
 | --- | --- |
-| WS 23/24 | [hmu-stats.github.io?23ws](https://hmu-stats.github.io?23ws){:target="_blank"} |
-| SS 24 | [hmu-stats.github.io?24ss](https://hmu-stats.github.io?24ss){:target="_blank"} |
+| Statistik 1 | [hmu-stats.github.io?24ss](https://hmu-stats.github.io){:target="_blank"} |
 
 
 
