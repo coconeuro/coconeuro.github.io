@@ -208,7 +208,7 @@
             delete theses[Object.keys(theses).pop()]; // delete last key which is the template
             menu.theses = Object.values(theses);
             menu.ntheses = Object.keys(theses).length;
-            menu.types =  [...new Set(Object.values(theses).map(v => v.type).flat())];
+            menu.types =  [...new Set(Object.values(theses).map(v => v.type).flat())].reverse();
             menu.tags =  ['ALL', ...new Set(Object.values(theses).map(v => v.tags).flat())];
             menu.years = [...new Set(Object.values(theses).map(v => v.year).flat())].filter(v => v !== null);
             menu.nyears = menu.years.length;
