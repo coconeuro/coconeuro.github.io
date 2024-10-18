@@ -11,7 +11,7 @@ include: section.html
 
 Lecture slides in the links below.
 
-| Semester | Link |
+| Course | Link |
 | --- | --- |
 | Statistik 1 | [hmu-stats.github.io](https://hmu-stats.github.io){:target="_blank"} |
 
