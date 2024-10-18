@@ -13,7 +13,7 @@ Lecture slides in the links below.
 
 | Semester | Link |
 | --- | --- |
-| Statistik 1 | [hmu-stats.github.io?24ss](https://hmu-stats.github.io){:target="_blank"} |
+| Statistik 1 | [hmu-stats.github.io](https://hmu-stats.github.io){:target="_blank"} |
 
 
 
