@@ -122,6 +122,54 @@
     "abstract": "This study aims to explore the relationship between metacognitive sensitivity and hypersensitivity. Hypersensitivity or sensory processing sensitivity is a trait-like construct involving an increased sensitivity and deeper cognitive processing of physical, social, and emotional stimuli. While hypersensitivity is often linked to the processing of external stimuli, little is known whether such increased sensitivity applies to internal thoughts as well. Here we hypothesize that highly sensitive persons show an enhanced ability to evaluate the correctness of own thoughts, actions and perceptions, also known as metacognitive ability. To this aim, participants will be assessed with the Highly Sensitive Person Scale (HSPS) and perform a series of tasks involving confidence ratings. Understanding the relationship between hypersensitivity and metacognitive sensitivity will provide insights into the cognitive mechanisms underlying hypersensitivity.",
     "abstract_de": ""
 },
+"fakeFeedback": {
+    "author": null,
+    "year": null,
+    "type": "Proposal",
+    "type_extended": "Empirical study",
+    "language": "German",
+    "tags": ["metacognition", "feedback", "visual perception"],
+    "title": "The effect of fake feedback on metacognition",
+    "title_de": "Die Auswirkung von manipuliertem Feedback auf Metakognition",
+    "abstract": "This Bachelor proposal builds on and extends an existing dataset investigating effects of fake feedback on metacognition. In a between-subject design, one group receives reliable feedback, a second group receives manipulated feedback and third group receives no feedback in a perceptual decision-making task. After indicating the perceived motion direction of a random dot kinematogram, participants rate the confidence in their choice. It is hypothesized that fake feedback not only detoriates perceptual performance, but also the metacognitive ability to discern between own correct and incorrect choices. Exploratory analyses investigate the role of manipulation awareness, i.e. if effects of fake feedback depend on whether participants are aware or unaware about the feedback manipulation.",
+    "abstract_de": ""
+},
+"populismTheory": {
+    "author": null,
+    "year": null,
+    "type": "Proposal",
+    "type_extended": "Literature review",
+    "language": "German",
+    "tags": ["politics"],
+    "title": "Review: psychological types of persuasive strategy",
+    "title_de": "Review: psychologische Argumentstrategien",
+    "abstract": "The rise of extreme left- and right-wing political parties in Germany's political landscape has become a significant concern for many observers. This shift toward more populist positions reflects a broader trend both within and beyond Germany, yet the underlying psychological mechanisms remain poorly understood. Notably, an increasing number of individuals appear susceptible to political propaganda and conspiracy theories, while showing limited receptiveness to rational discourse. This raises a critical question: what are the most effective psychological strategies for engaging this group in constructive, rational debate? To address this, the thesis will 1) provide an overview of different categories of psychological argumentation strategies (through a literature review) and 2) apply these insights to common populist misconceptions in contemporary German politics.",
+    "abstract_de": ""
+},
+"populismTestDevelopment": {
+    "author": null,
+    "year": null,
+    "type": "Proposal",
+    "type_extended": "Questionnaire development",
+    "language": "German",
+    "tags": ["politics"],
+    "title": "Designing an Experiment to compare persuasive strategies in the context of populist political positions",
+    "title_de": "Entwicklung eines Experimentes zum Vergleich argumentativer Strategien im Kontext populistischer politischer Positionen",
+    "abstract": "The rise of extreme left- and right-wing political parties in Germany's political landscape has become a significant concern for many observers. This shift toward more populist positions reflects a broader trend both within and beyond Germany, yet the underlying psychological mechanisms remain poorly understood. Notably, an increasing number of individuals appear susceptible to political propaganda and conspiracy theories, while showing limited receptiveness to rational discourse. This raises a critical question: what are the most effective psychological strategies for engaging this group in constructive, rational debate? The aim of this thesis is to design an experiment that compares the effectiveness of various psychological argumentation strategies. This will involve selecting a range of populist positions and developing corresponding psychological arguments tailored to each strategy for systematic comparison.",
+    "abstract_de": ""
+},
+"populismFieldStudy": {
+    "author": null,
+    "year": null,
+    "type": "Proposal",
+    "type_extended": "Empirical study",
+    "language": "German",
+    "tags": ["politics"],
+    "title": "Field experiment to compare persuasive strategies in the context of populist political positions",
+    "title_de": "Feldstudie zum Vergleich argumentativer Strategien im Kontext populistischer politischer Positionen",
+    "abstract": "The rise of extreme left- and right-wing political parties in Germany's political landscape has become a significant concern for many observers. This shift toward more populist positions reflects a broader trend both within and beyond Germany, yet the underlying psychological mechanisms remain poorly understood. Notably, an increasing number of individuals appear susceptible to political propaganda and conspiracy theories, while showing limited receptiveness to rational discourse. This raises a critical question: what are the most effective psychological strategies for engaging this group in constructive, rational debate? This thesis will compare the effectiveness of various psychological argumentation strategies among individuals which identify with extreme left- or right-wing political parties. A major challenge for this thesis is recruiting a meaningful sample of individuals from local political branches, internet forums or through other means.",
+    "abstract_de": ""
+},
 "templateXXXX": {
     "author": null,
     "year": null,
