@@ -13,7 +13,7 @@ We are looking for a highly motivated PhD student to join a project in the field
 - Relationship between computational parameters of metacognition and personality
 
 See also:     
-    [karten-t.dfg.de/gepris/projekt/550113793](https://karten-t.dfg.de/gepris/projekt/550113793){:target="_blank"}
+    [gepris.dfg.de/gepris/projekt/550113793?language=en](https://gepris.dfg.de/gepris/projekt/550113793?language=en){:target="_blank"}
 
 Requirements:
 
