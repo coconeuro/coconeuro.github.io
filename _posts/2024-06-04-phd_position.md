@@ -12,8 +12,8 @@ We are looking for a highly motivated PhD student to join a project in the field
 - Computational modeling of confidence
 - Relationship between computational parameters of metacognition and personality
 
-See also: 
-    https://karten-t.dfg.de/gepris/projekt/550113793
+See also:     
+    [karten-t.dfg.de/gepris/projekt/550113793](https://karten-t.dfg.de/gepris/projekt/550113793){:target="_blank"}
 
 Requirements:
 
@@ -32,7 +32,7 @@ In addition, experience in one or more of the following fields is beneficial:
 Location:
     Health and Medical University Potsdam
     Institute for Mind, Brain and Behavior
-    https://www.health-and-medical-university.de/
+    [health-and-medical-university.de](https://www.health-and-medical-university.de/){:target="_blank"}
 
 What we offer:
 
@@ -45,12 +45,12 @@ PI / Supervisor:
     Matthias Guggenmos
     Professor for Computational Cognitive Neuroscience    
     Health and Medical University Potsdam
-    Institute for Mind, Brain and Behavior    
-    https://coconeuro.github.io/
+    Institute for Mind, Brain and Behavior        
+    [coconeuro.github.io](https://coconeuro.github.io/){:target="_blank"}
     
 Please send your application (motivation + CV) in one pdf file (English or German) to:
 
-    matthias.guggenmos@hmu-potsdam.de
+matthias.guggenmos@hmu-potsdam.de
 
 Please feel free to use this email address for any questions prior to a potential application.
 
