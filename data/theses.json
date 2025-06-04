@@ -74,16 +74,28 @@
     "abstract": "-",
     "abstract_de": "-"
 },
-"faceAsym": {
+"faceAsymMeta": {
     "author": null,
     "year": null,
     "type": "Proposal",
     "type_extended": "Empirical study",
     "language": "German",
-    "tags": ["hemispheric asymmetry", "visual perception", "face perception"],
+    "tags": ["visual perception", "face perception", "left-side bias"],
     "title": "Metacognitive awareness of the left visual field half-face advantage",
     "title_de": "Metakognitives Bewusstsein für präferentielle linksseitige Gesichterverarbeitung",
     "abstract": "The left visual field (LVF) advantage in face recognition tasks refers to the phenomenon where individuals typically recognize faces more accurately and quickly when they are presented in the left visual field, which is processed by the right hemisphere of the brain. The current project aims to investigate the presence and extent of metacognitive awareness regarding this LVF advantage. In a web-based perceptual and mnemonic task, participants will perceive original and chimeric faces in an encoding phase. In a subsequent recollection phase, participants perform an old/new recognition task and indicate their confidence on a 5-point Likert scale. We hypothesize that humans have metacognitive awareness regarding their own left visual field advantage which entails two predictions: higher confidence for chimeric versus original faces, and similar metacognitive efficiency for chimeric versus original faces. In an exploratory analysis it is assessed whether metacognitive awareness is associated with the performance in a super-recognizer face perception test.",
+    "abstract_de": "-"
+},
+"faceAsymDuration": {
+    "author": null,
+    "year": null,
+    "type": "Bachelor (ongoing)",
+    "type_extended": "Empirical study",
+    "language": "German",
+    "tags": ["visual perception", "face perception", "left-side bias"],
+    "title": "The influence of presentation duration on the left-side bias in face perception",
+    "title_de": Einfluss der Präsentationsdauer auf den linkslateralen Bias in der Gesichtswahrnehmung",
+    "abstract": "The left visual field (LVF) advantage in face recognition tasks refers to the phenomenon where individuals typically recognize faces more accurately and quickly when they are presented in the left visual field, which is processed by the right hemisphere of the brain. The current project aims to investigate the required duration of face presentation to elicit the LVF advantage. In a web-based perceptual and mnemonic task, participants will perceive original and chimeric target faces in an encoding phase. In a subsequent recognition phase, participant indicate which of two composite face stimuli more closely resembles the target face, where one composite face consists of twice the left face side (mirrored to the right) and one composite face consists of twice the right face side (mirrored to the left). Three hypotheses are tested: 1) At longer presentation durations participants exhibit a robust LVF such that they more often perceive the left face side as more similar to the target face; 2) At sufficiently short presentation durations the LVF vanishes, in line with a critical role of high-level face areas in the emergence of the LVF; 3) Both effects do not depend on whether the target face corresponded to the original face or a chimeric variant, thus excluding anatomical differences between the left and right sides of the presented faces.",
     "abstract_de": "-"
 },
 "splitBrain": {
@@ -158,13 +170,25 @@
     "abstract": "The rise of extreme left- and right-wing political parties in Germany's political landscape has become a significant concern for many observers. This shift toward more populist positions reflects a broader trend both within and beyond Germany, yet the underlying psychological mechanisms remain poorly understood. Notably, an increasing number of individuals appear susceptible to political propaganda and conspiracy theories, while showing limited receptiveness to rational discourse. This raises a critical question: what are the most effective psychological strategies for engaging this group in constructive, rational debate? The aim of this thesis is to design an experiment that compares the effectiveness of various psychological argumentation strategies. This will involve selecting a range of populist positions and developing corresponding psychological arguments tailored to each strategy for systematic comparison.",
     "abstract_de": ""
 },
+"populismOnlineStudy": {
+    "author": null,
+    "year": null,
+    "type": "Ongoing",
+    "type_extended": "Empirical study",
+    "language": "German",
+    "tags": ["political psychology"],
+    "title": "Emotional persuasion strategies to counter populist beliefs",
+    "title_de": "Emotionale Argumentstrategien bei populistischen Überzeugungen",
+    "abstract": "The rise of extreme left- and right-wing political parties in Germany's political landscape has become a significant concern for many observers. This shift toward more populist positions reflects a broader trend both within and beyond Germany, yet the underlying psychological mechanisms remain poorly understood. Notably, an increasing number of individuals appear susceptible to political propaganda and conspiracy theories, while showing limited receptiveness to rational discourse. This raises a critical question: what are the most effective psychological strategies for engaging this group in constructive, rational debate? This thesis investigates the effectiveness of two critical dimensions of emotional persuasion strategies: immersion (variability along the descriptive-immersive axis) and emotional valence (variability along the negative-positive axis of emotional content).",
+    "abstract_de": ""
+},
 "populismFieldStudy": {
     "author": null,
     "year": null,
     "type": "Proposal",
     "type_extended": "Empirical study",
     "language": "German",
-    "tags": ["politics"],
+    "tags": ["political psychology"],
     "title": "Field experiment to compare persuasive strategies in the context of populist political positions",
     "title_de": "Feldstudie zum Vergleich argumentativer Strategien im Kontext populistischer politischer Positionen",
     "abstract": "The rise of extreme left- and right-wing political parties in Germany's political landscape has become a significant concern for many observers. This shift toward more populist positions reflects a broader trend both within and beyond Germany, yet the underlying psychological mechanisms remain poorly understood. Notably, an increasing number of individuals appear susceptible to political propaganda and conspiracy theories, while showing limited receptiveness to rational discourse. This raises a critical question: what are the most effective psychological strategies for engaging this group in constructive, rational debate? This thesis will compare the effectiveness of various psychological argumentation strategies among individuals which identify with extreme left- or right-wing political parties. A major challenge for this thesis is recruiting a meaningful sample of individuals from local political branches, internet forums or through other means.",
