@@ -30,6 +30,7 @@ In addition, experience in one or more of the following fields is beneficial:
 - Web-based experiments
 
 Location:
+
 Health and Medical University Potsdam<br>
 Institute for Mind, Brain and Behavior<br>
 [health-and-medical-university.de](https://www.health-and-medical-university.de/){:target="_blank"}
