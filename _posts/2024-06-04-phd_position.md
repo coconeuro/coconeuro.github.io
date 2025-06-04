@@ -30,9 +30,9 @@ In addition, experience in one or more of the following fields is beneficial:
 - Web-based experiments
 
 Location:
-    Health and Medical University Potsdam
-    Institute for Mind, Brain and Behavior
-    [health-and-medical-university.de](https://www.health-and-medical-university.de/){:target="_blank"}
+Health and Medical University Potsdam<br>
+Institute for Mind, Brain and Behavior<br>
+[health-and-medical-university.de](https://www.health-and-medical-university.de/){:target="_blank"}
 
 What we offer:
 
@@ -42,10 +42,10 @@ What we offer:
 - Benefit from a flourishing neuroscience community in and around Berlin.
 
 PI / Supervisor:
-    Matthias Guggenmos
-    Professor for Computational Cognitive Neuroscience    
-    Health and Medical University Potsdam
-    Institute for Mind, Brain and Behavior        
+    Matthias Guggenmos<br>
+    Professor for Computational Cognitive Neuroscience<br>
+    Health and Medical University Potsdam<br>
+    Institute for Mind, Brain and Behavior<br>
     [coconeuro.github.io](https://coconeuro.github.io/){:target="_blank"}
     
 Please send your application (motivation + CV) in one pdf file (English or German) to:
@@ -55,4 +55,5 @@ matthias.guggenmos@hmu-potsdam.de
 Please feel free to use this email address for any questions prior to a potential application.
 
 **Deadline: July 15th 2025**
+
 Start of the position: August - October 2025
