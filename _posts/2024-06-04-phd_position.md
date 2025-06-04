@@ -43,11 +43,12 @@ What we offer:
 - Benefit from a flourishing neuroscience community in and around Berlin.
 
 PI / Supervisor:
-    Matthias Guggenmos<br>
-    Professor for Computational Cognitive Neuroscience<br>
-    Health and Medical University Potsdam<br>
-    Institute for Mind, Brain and Behavior<br>
-    [coconeuro.github.io](https://coconeuro.github.io/){:target="_blank"}
+
+Matthias Guggenmos<br>
+Professor for Computational Cognitive Neuroscience<br>
+Health and Medical University Potsdam<br>
+Institute for Mind, Brain and Behavior<br>
+[coconeuro.github.io](https://coconeuro.github.io/){:target="_blank"}
     
 Please send your application (motivation + CV) in one pdf file (English or German) to:
 
