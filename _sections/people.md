@@ -10,7 +10,7 @@ include: section.html
 
 | <br>**[Matthias Guggenmos](https://www.health-and-medical-university.de/ueber-uns-2/team/team-fakultaet-gesundheit/prof-dr-habil-matthias-guggenmos/){:target='\_blank'}**<br>_Professor for Computational Cognitive Neuroscience_<br><br>[E-mail](mailto:matthias.guggenmos@hmu-potsdam.de) | ![Matthias Guggenmos](images/matthias.png){:width="140px"} |
 | <br>**Marek Němeček**<br>_Researcher_<br><br>[E-mail](mailto:marek.nemecek@hmu-potsdam.de)| ![Marek Němeček](images/profile_marek.png){:width="140px"}|
-| <br>**Awritrojit Banerjee**<br>_Researcher_<br><br>[E-mail](mailto:awritrojit.banerjee@hmu-potsdam.de)| ![Awritrojit Banerjee](images/placeholder.png){:width="140px"}|
+| <br>**Awritrojit Banerjee**<br>_Researcher_<br><br>[E-mail](mailto:awritrojit.banerjee@hmu-potsdam.de)| ![Awritrojit Banerjee](images/profile_awritrojit.png){:width="140px"}|
 | <br>**Denise Kittelmann**<br>_Student assistant_<br><br>[E-mail](mailto:denise.kittelmann@shk.health-and-medical-university.de)| ![Denise Kittelmann](images/profile_denise.png){:width="140px"}|
 | <br>**Barbora Wolf**<br>_Student assistant_<br><br>[E-mail](mailto:barbora.wolf@fu-berlin.de)| ![Barbora Wolf](images/profile_barbora.png){:width="140px"}|
 | <br>**Johanna Prugger**<br>_Student assistant_<br><br>[E-mail](mailto:johanna.prugger@shk.health-and-medical-university.de)| ![Johanna Prugger](images/placeholder.png){:width="140px"}|
