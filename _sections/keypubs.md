@@ -1,7 +1,7 @@
 ---
 title: Key publications
 # Set the display order for this section
-order: 3
+order: 4
 color: white
 # Specify the layout for this section
 include: section.html
