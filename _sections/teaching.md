@@ -1,7 +1,7 @@
 ---
 # title: About
 # Set the display order for this section
-order: 4
+order: 6
 color: grey
 textalign: justify
 # Specify the layout for this section
