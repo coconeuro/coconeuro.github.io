@@ -13,7 +13,7 @@ include: section.html
 | <br>**Awritrojit Banerjee**<br>_PhD Student_<br><br>[E-mail](mailto:awritrojit.banerjee@hmu-potsdam.de)| ![Awritrojit Banerjee](images/profile_awritrojit.png){:width="140px"}|
 | <br>**Denise Kittelmann**<br>_Student assistant_<br><br>[E-mail](mailto:denise.kittelmann@shk.health-and-medical-university.de)| ![Denise Kittelmann](images/profile_denise.png){:width="140px"}|
 | <br>**Barbora Wolf**<br>_Student assistant_<br><br>[E-mail](mailto:barbora.wolf@fu-berlin.de)| ![Barbora Wolf](images/profile_barbora.png){:width="140px"}|
-| <br>**Johanna Prugger**<br>_Student assistant_<br><br>[E-mail](mailto:johanna.prugger@shk.health-and-medical-university.de)| ![Johanna Prugger](images/placeholder.png){:width="140px"}|
+| <br>**Johanna Prugger**<br>_Student assistant_<br><br>[E-mail](mailto:johanna.prugger@shk.health-and-medical-university.de)| ![Johanna Prugger](images/profile_johanna.png){:width="140px"}|
 | <br>**Boutheina Korchani**<br>_Student assistant_<br><br>[E-mail](mailto:boutheina.korchani@shk.health-and-medical-university.de)| ![Boutheina Korchani](images/placeholder.png){:width="140px"}|
 {% comment %}
 | <br>**Elena Korchagina**<br>_Lab rotation student_<br><br>| ![Elena Korchagina](images/profile_elena.png){:width="140px"}|
