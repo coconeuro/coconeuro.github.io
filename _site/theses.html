@@ -186,7 +186,7 @@
 
       let theses_selected = menu.theses.filter(v =>
       ((v.type == 'Proposal') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) &&
-      ((v.type === menu.type_selected) || (menu.type_selected === 'ALL')) &&
+      ((menu.type_selected === 'ALL') || (v.type === menu.type_selected)) &&
       ((menu.tag_selected === 'ALL') || v.tags.includes(menu.tag_selected)))
 
       div_abstracts.innerHTML = '';
