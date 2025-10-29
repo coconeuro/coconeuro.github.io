@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2025-03-12T15:48:28+01:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Computation and Cognition @ HMU Potsdam</title><subtitle>Learn with confidence</subtitle><entry><title type="html">Thesis projects in the lab</title><link href="http://0.0.0.0:4000/theses" rel="alternate" type="text/html" title="Thesis projects in the lab" /><published>2024-06-28T00:00:00+02:00</published><updated>2024-06-28T00:00:00+02:00</updated><id>http://0.0.0.0:4000/theses</id><content type="html" xml:base="http://0.0.0.0:4000/theses"><![CDATA[<h3 id="hmu-bachelormaster-thesis-projects-in-the-lab">HMU Bachelor/Master thesis projects in the lab</h3>]]></content><author><name></name></author><summary type="html"><![CDATA[HMU Bachelor/Master thesis projects in the lab]]></summary></entry><entry><title type="html">Color faq</title><link href="http://0.0.0.0:4000/color-faq" rel="alternate" type="text/html" title="Color faq" /><published>2024-02-13T00:00:00+01:00</published><updated>2024-02-13T00:00:00+01:00</updated><id>http://0.0.0.0:4000/color-constancy</id><content type="html" xml:base="http://0.0.0.0:4000/color-faq"><![CDATA[<h3 id="faq-color-testorg">FAQ color-test.org</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-29T13:08:25+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Computation and Cognition @ HMU Potsdam</title><subtitle>Learn with confidence</subtitle><entry><title type="html">Thesis projects in the lab</title><link href="http://localhost:4000/theses" rel="alternate" type="text/html" title="Thesis projects in the lab" /><published>2024-06-28T00:00:00+02:00</published><updated>2024-06-28T00:00:00+02:00</updated><id>http://localhost:4000/theses</id><content type="html" xml:base="http://localhost:4000/theses"><![CDATA[<h3 id="bachelormaster-thesis-projects-in-the-lab">Bachelor/Master thesis projects in the lab</h3>]]></content><author><name></name></author><summary type="html"><![CDATA[Bachelor/Master thesis projects in the lab]]></summary></entry><entry><title type="html">Cognitive Neuroscience PhD position in Potsdam / Berlin</title><link href="http://localhost:4000/phd2025" rel="alternate" type="text/html" title="Cognitive Neuroscience PhD position in Potsdam / Berlin" /><published>2024-06-04T00:00:00+02:00</published><updated>2024-06-04T00:00:00+02:00</updated><id>http://localhost:4000/phd_position</id><content type="html" xml:base="http://localhost:4000/phd2025"><![CDATA[<h3 id="cognitive-neuroscience-phd-position-in-potsdam--berlin">Cognitive Neuroscience PhD position in Potsdam / Berlin</h3>
+
+<p>We are looking for a highly motivated PhD student to join a project in the field of cognitive neuroscience / cognitive modeling. The PhD position is part of the project “Understanding intra- and interindividual variation in human metacognition”, involving in particular:</p>
+
+<ul>
+  <li>Time-resolved neural correlates of confidence (EEG)</li>
+  <li>Computational modeling of confidence</li>
+  <li>Relationship between computational parameters of metacognition and personality</li>
+</ul>
+
+<p>See also:   <br />
+    <a href="https://gepris.dfg.de/gepris/projekt/550113793?language=en" target="_blank">gepris.dfg.de/gepris/projekt/550113793?language=en</a></p>
+
+<p>Requirements:</p>
+
+<ul>
+  <li>Master degree in psychology, (cognitive/computational) neuroscience, computer science, physics or related subject</li>
+  <li>Good to very good programming skills (e.g. Python/R/Matlab)</li>
+  <li>Excellent writing and communication skills (English)</li>
+</ul>
+
+<p>In addition, experience in one or more of the following fields is beneficial:</p>
+
+<ul>
+  <li>EEG</li>
+  <li>Cognitive modeling</li>
+  <li>Experience in metacognition / confidence research</li>
+  <li>Open science (preregistration, open code, etc)</li>
+  <li>Web-based experiments</li>
+</ul>
+
+<p>Location:</p>
+
+<p>Health and Medical University Potsdam<br />
+Institute for Mind, Brain and Behavior<br />
+<a href="https://www.health-and-medical-university.de/" target="_blank">health-and-medical-university.de</a></p>
+
+<p>What we offer:</p>
+
+<ul>
+  <li>An exciting area of research.</li>
+  <li>Secure PhD funding for 3 years (65% position).</li>
+  <li>Work at a lovely location in Potsdam, just south-west of Berlin (close to Potsdam Hauptbahnhof).</li>
+  <li>Benefit from a flourishing neuroscience community in and around Berlin.</li>
+</ul>
+
+<p>PI / Supervisor:</p>
+
+<p>Matthias Guggenmos<br />
+Professor for Computational Cognitive Neuroscience<br />
+Health and Medical University Potsdam<br />
+Institute for Mind, Brain and Behavior<br />
+<a href="https://coconeuro.github.io/" target="_blank">coconeuro.github.io</a></p>
+
+<p>Please send your application (motivation + CV) in one pdf file (English or German) to:</p>
+
+<p><strong>matthias.guggenmos@hmu-potsdam.de</strong></p>
+
+<p>Please feel free to use this email address for any questions prior to a potential application.</p>
+
+<p><strong>Deadline: July 15th 2025</strong></p>
+
+<p>Start of the position: August - October 2025</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Cognitive Neuroscience PhD position in Potsdam / Berlin]]></summary></entry><entry><title type="html">Color faq</title><link href="http://localhost:4000/color-faq" rel="alternate" type="text/html" title="Color faq" /><published>2024-02-13T00:00:00+01:00</published><updated>2024-02-13T00:00:00+01:00</updated><id>http://localhost:4000/color-constancy</id><content type="html" xml:base="http://localhost:4000/color-faq"><![CDATA[<h3 id="faq-color-testorg">FAQ color-test.org</h3>
 
 <p>This is a compendium of questions about the color constancy test at <a href="https://color-test.org/" target="_blank">color-test.org</a>.</p>
 

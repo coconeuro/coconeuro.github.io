@@ -184,7 +184,7 @@
       // let theses_selected = menu.theses.filter(v => ((v.type == 'ALL') || (v.type == 'Proposal') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) && ((v.type === menu.type_selected) || (menu.type_selected === 'ALL')) && ((menu.tag_selected === 'ALL') || v.tags.includes(menu.tag_selected)))
 
       let theses_selected = menu.theses.filter(v =>
-      ((v.type == 'Proposal') || (menu.year_start_selected === 'ALL') || (menu.year_end_selected === 'ALL') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) &&
+      ((v.type == 'Proposal') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) &&
       ((v.type === menu.type_selected) || (menu.type_selected === 'ALL')) &&
       ((menu.tag_selected === 'ALL') || v.tags.includes(menu.tag_selected)))
 
@@ -214,9 +214,9 @@
             delete theses[Object.keys(theses).pop()]; // delete last key which is the template
             menu.theses = Object.values(theses);
             menu.ntheses = Object.keys(theses).length;
-            menu.types =  ['ALL', ...new Set(Object.values(theses).map(v => v.type).flat())].reverse();
+            menu.types =  [...new Set(Object.values(theses).map(v => v.type).flat()), 'ALL'].reverse();
             menu.tags =  ['ALL', ...new Set(Object.values(theses).map(v => v.tags).flat())];
-            menu.years = ['ALL', ...new Set(Object.values(theses).map(v => v.year).flat())].filter(v => v !== null);
+            menu.years = [...new Set(Object.values(theses).map(v => v.year).flat())].filter(v => v !== null);
             menu.nyears = menu.years.length;
             menu.year_first = menu.years[0];
             menu.year_last = menu.years[menu.ntheses - 1];

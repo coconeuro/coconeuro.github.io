@@ -59,7 +59,7 @@
 
     <!-- Main -->
     <div id="main">
-        <h3 id="hmu-bachelormaster-thesis-projects-in-the-lab">HMU Bachelor/Master thesis projects in the lab</h3>
+        <h3 id="bachelormaster-thesis-projects-in-the-lab">Bachelor/Master thesis projects in the lab</h3>
 
 
         <div id="theses-menu">
@@ -68,7 +68,7 @@
             <div class="scrollable-container" id="types"></div>
           </div>
           <div class="grid-item">
-            <div class="menu-title">Topic</div>
+            <div class="menu-title">Tag</div>
             <div class="scrollable-container" id="tags"></div>
           </div>
           <div class="grid-item">
@@ -110,10 +110,10 @@
 
     function yearSelected(el, start_end) {
       if (start_end === 'start') {
-        menu.year_start_selected = +el.textContent;        
+        menu.year_start_selected = isNaN(+el.textContent) ? el.textContent : +el.textContent;
         menu.ind_start_selected = el.ind;
       } else {
-        menu.year_end_selected = +el.textContent;
+        menu.year_end_selected = isNaN(+el.textContent) ? el.textContent : +el.textContent;
         menu.ind_end_selected = el.ind;
       }      
     }
@@ -182,9 +182,15 @@
 
     function updateAbstracts() {
       let div_abstracts = document.getElementById('theses-abstracts');
-      let theses_selected = menu.theses.filter(v => ((v.type == 'Proposal') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) && (v.type === menu.type_selected) && ((menu.tag_selected === 'ALL') || v.tags.includes(menu.tag_selected)))
+      // let theses_selected = menu.theses.filter(v => ((v.type == 'ALL') || (v.type == 'Proposal') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) && ((v.type === menu.type_selected) || (menu.type_selected === 'ALL')) && ((menu.tag_selected === 'ALL') || v.tags.includes(menu.tag_selected)))
+
+      let theses_selected = menu.theses.filter(v =>
+      ((v.type == 'Proposal') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) &&
+      ((v.type === menu.type_selected) || (menu.type_selected === 'ALL')) &&
+      ((menu.tag_selected === 'ALL') || v.tags.includes(menu.tag_selected)))
+
       div_abstracts.innerHTML = '';
-      for (let i = 0; i < theses_selected.length; i++) {              
+      for (let i = 0; i < theses_selected.length; i++) {
         const newAbstract = document.createElement('div');
         newAbstract.classList.add('abstract');
         let author_line = theses_selected[i].type === 'Proposal' ? theses_selected[i].type : `${theses_selected[i].author} (${theses_selected[i].year}): ${theses_selected[i].type.replace('(', 'thesis (')}`;
@@ -209,7 +215,7 @@
             delete theses[Object.keys(theses).pop()]; // delete last key which is the template
             menu.theses = Object.values(theses);
             menu.ntheses = Object.keys(theses).length;
-            menu.types =  [...new Set(Object.values(theses).map(v => v.type).flat())].reverse();
+            menu.types =  [...new Set(Object.values(theses).map(v => v.type).flat()), 'ALL'].reverse();
             menu.tags =  ['ALL', ...new Set(Object.values(theses).map(v => v.tags).flat())];
             menu.years = [...new Set(Object.values(theses).map(v => v.year).flat())].filter(v => v !== null);
             menu.nyears = menu.years.length;

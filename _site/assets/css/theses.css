@@ -5,7 +5,7 @@
     gap: 10px;
     padding: 4px;
     /* border: 2px solid green; */
-    height: 160px;
+    height: 200px;
     width: fit-content;
 }
 
@@ -13,11 +13,11 @@
     /* padding: 20px; */
     /* text-align: center; */
     border-radius: 5px;
-    height: 140px;
+    height: 180px;
 }
 
 .scrollable-container {
-    height: 113px;
+    height: 153px;
     overflow-y: auto;
     overflow-x: clip;
     border: 1px solid #ccc;
