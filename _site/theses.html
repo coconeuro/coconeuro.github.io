@@ -110,10 +110,10 @@
 
     function yearSelected(el, start_end) {
       if (start_end === 'start') {
-        menu.year_start_selected = isNaN(+el.textContent) ? el.textContent : +el.textContent;
+        menu.year_start_selected = +el.textContent;
         menu.ind_start_selected = el.ind;
       } else {
-        menu.year_end_selected = isNaN(+el.textContent) ? el.textContent : +el.textContent;
+        menu.year_end_selected = +el.textContent;
         menu.ind_end_selected = el.ind;
       }      
     }
