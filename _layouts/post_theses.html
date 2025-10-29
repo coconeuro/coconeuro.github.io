@@ -181,7 +181,13 @@
 
     function updateAbstracts() {
       let div_abstracts = document.getElementById('theses-abstracts');
-      let theses_selected = menu.theses.filter(v => ((v.type == 'ALL') || (v.type == 'Proposal') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) && ((v.type === menu.type_selected) || (v.type === 'ALL')) && ((menu.tag_selected === 'ALL') || v.tags.includes(menu.tag_selected)))
+      // let theses_selected = menu.theses.filter(v => ((v.type == 'ALL') || (v.type == 'Proposal') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) && ((v.type === menu.type_selected) || (menu.type_selected === 'ALL')) && ((menu.tag_selected === 'ALL') || v.tags.includes(menu.tag_selected)))
+
+      let theses_selected = menu.theses.filter(v =>
+      ((v.type == 'Proposal') || (menu.year_start_selected === 'ALL') || (menu.year_end_selected === 'ALL') || ((v.year >= menu.year_start_selected) && (v.year <= menu.year_end_selected))) &&
+      ((v.type === menu.type_selected) || (menu.type_selected === 'ALL')) &&
+      ((menu.tag_selected === 'ALL') || v.tags.includes(menu.tag_selected)))
+
       div_abstracts.innerHTML = '';
       for (let i = 0; i < theses_selected.length; i++) {              
         const newAbstract = document.createElement('div');
