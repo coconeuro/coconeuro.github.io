@@ -15,6 +15,7 @@ include: section.html
 | <br>**Barbora Wolf**<br>_Student assistant_<br><br>[E-mail](mailto:barbora.wolf@fu-berlin.de)| ![Barbora Wolf](images/profile_barbora.png){:width="140px"}|
 | <br>**Johanna Prugger**<br>_Student assistant_<br><br>[E-mail](mailto:johanna.prugger@shk.health-and-medical-university.de)| ![Johanna Prugger](images/profile_johanna.png){:width="140px"}|
 | <br>**Boutheina Korchani**<br>_Student assistant_<br><br>[E-mail](mailto:boutheina.korchani@shk.health-and-medical-university.de)| ![Boutheina Korchani](images/placeholder.png){:width="140px"}|
+| <br>**Sebastian Valero**<br>_Student assistant_<br>| ![Sebastian Valero](images/profile_sebastian.png){:width="140px"}|
 {% comment %}
 | <br>**Elena Korchagina**<br>_Lab rotation student_<br><br>| ![Elena Korchagina](images/profile_elena.png){:width="140px"}|
 | <br>**Cheyenne Cavender**<br>_Intern_<br><br>| ![Cheyenne Cavender](images/placeholder.png){:width="140px"}|
