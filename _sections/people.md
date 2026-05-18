@@ -30,4 +30,4 @@ include: section.html
 | <br>**[Prof. Philipp Sterzer](https://psychiatrie-psychotherapie.charite.de/en/metas/person_detail/person/address_detail/sterzer/)**<br>_Department Head_| ![Philipp Sterzer](images/philipp.png){:width="140px"}|
 {% endcomment %}
 
-***We are open to students interested in internships, lab rotations or master theses. To apply, please write us an [E-mail](mailto:matthias.guggenmos@hum-potsdam.de) with a short motivation and CV.***
+***We are open to students interested in internships, lab rotations or master theses. To apply, please write us an [E-mail](mailto:matthias.guggenmos@hmu-potsdam.de) with a short motivation and CV.***
